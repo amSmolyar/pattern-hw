@@ -1,0 +1,6 @@
+rootProject.name = 'pattern-hw'
+include 'pattern-builder'
+include 'pattern - singleton'
+include 'pattern-singleton'
+include 'pattern-builder-2'
+
