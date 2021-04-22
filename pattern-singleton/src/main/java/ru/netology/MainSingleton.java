@@ -68,6 +68,8 @@ public class MainSingleton {
         writeList(resultList);
 
         logger.log("Завершаем программу");
+
+        scanner.closeScanner();
     }
 
     public static <T> void writeList(List<T> list) {

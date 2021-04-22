@@ -3,4 +3,8 @@ include 'pattern-builder'
 include 'pattern - singleton'
 include 'pattern-singleton'
 include 'pattern-builder-2'
+include 'pattern-adapter'
+include 'pattern-facade'
+include 'pattern-iterator'
+include 'pattern-command'
 
